@@ -13,4 +13,3 @@ An implementation of Connect Four using the following languages/libraries/framew
 ## Game Background
 There are several variations of the game, but for this project I've used the basic rules. A gameplay example: the first player starting Connect Four by dropping one of their Blue discs into the column of his choice of an empty game board. The two players then take alternate turns dropping one of their discs at a time into an unfilled column, until one of the players, achieves a horizantal/vertical/diagonal four, and wins the game. For games where the board fills up before either player achieves four in a row, then the games are a draw.
 
-## Play:
